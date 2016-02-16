@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import ovh
 
-#conf login api
+#conf login apii
 client = ovh.Client(
     endpoint='ovh-eu',
     application_key=my_app_key
